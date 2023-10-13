@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://65.2.69.121:8081/repository/sakshi/</url>
+		    <url>http://3.104.105.223:8081/repository/repo1/</url>
 		</repository>
   	</distributionManagement>
 	
